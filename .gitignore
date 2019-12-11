@@ -1,0 +1,10 @@
+# python
+/env
+/build
+/dist
+*.egg-info
+__pycache__
+
+# code specific
+.vscode
+*.code-workspace
